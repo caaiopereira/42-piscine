@@ -30,7 +30,7 @@ char	*ft_strlowcase(char *str)
 
 int	main()
 {
-	char	str[] = "Az";
+	char	str[] = "AZ";
 
 	printf("%s", ft_strlowcase(str));
 }
