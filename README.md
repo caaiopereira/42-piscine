@@ -37,7 +37,6 @@ This repository contains coding developed at [42rio](https://42.rio/) C bootcamp
 		chosen by the school's system must collaboratively develop a fully running application.
 		The major challenge here is to equalize the different knowledge levels while finding a
 		common work methodology that allows all team members to contribute to the project.
-
 	# Time management and resiliency
 		The school is open 24/7. Thus, the so-called "pisciners" are free to work whenever
 		they want, which demands excellent time management skills and resiliency for not
